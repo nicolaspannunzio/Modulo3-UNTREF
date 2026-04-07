@@ -8,7 +8,7 @@ Este espacio está destinado a almacenar mis ejercicios, resoluciones y avances 
 El enfoque principal de este repositorio es la **Automatización de Pruebas (QA Automation)**. A lo largo del cursado, estaré subiendo los distintos scripts y ejercicios prácticos desarrollados en **Python**, orientados a asegurar la calidad y optimizar los procesos de testing.
 
 ## 🌟 Trabajos Prácticos Optativos (TPOs)
-En este repositorio, las resoluciones más integrales se encuentran centralizadas en la carpeta `/trabajos-optativos`. Allí se alojan los TPOs del módulo, los cuales aplican de forma completa los conceptos de Python y la lógica de programación orientada a la calidad de software vistos en cada clase.
+En este repositorio, las resoluciones más integrales se encuentran centralizadas en la carpeta `/trabajos-praticos-optativos`. Allí se alojan los TPOs del módulo, los cuales aplican de forma completa los conceptos de Python y la lógica de programación orientada a la calidad de software vistos en cada clase.
 
 ## 👨‍🏫 Docente a cargo
 * Rodrigo Serrato
