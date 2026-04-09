@@ -10,7 +10,7 @@ El enfoque principal de este repositorio es la **Automatización de Pruebas (QA 
 ## 🌟 Trabajos Prácticos Optativos (TPOs)
 En este repositorio, las resoluciones más integrales se encuentran centralizadas en la carpeta `/trabajos-praticos-optativos`. Allí se alojan los TPOs del módulo, los cuales aplican de forma completa los conceptos de Python y la lógica de programación orientada a la calidad de software vistos en cada clase.
 
-## 👨‍🏫 Docente a cargo
+## 👨‍🏫 Docente
 * Rodrigo Serrato
 
 
